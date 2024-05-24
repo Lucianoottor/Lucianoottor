@@ -15,10 +15,10 @@ I'm looking for my first job in tech.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Object-Oriented Programming (OOP)             | <a href="https://github.com/Lucianoottor/space_invaders">Space Invaders Remake on Python</a>|
 | Data Analysis and Machine Learning            | <a href="https://github.com/Lucianoottor/Titanic_ML_Model">ML Model of Titanic</a>|
 | Web Development                               | <a href="https://github.com/Lucianoottor/trabalho_desenvolvimento_web">ML Model of Titanic</a>|
 | Computer Architecture                         | <a href="https://github.com/Lucianoottor/Simulador-Processador-Mips">MIPS Compiler Simulator in C</a>|
+| Object-Oriented Programming (OOP)             | <a href="https://github.com/Lucianoottor/space_invaders">Space Invaders Remake on Python</a>|
 | C (Pointer and File Manipulation)             | <a href="https://github.com/Lucianoottor/APP-Software-Comercial">Comercial Software APP</a>|
 
 ## Tools
