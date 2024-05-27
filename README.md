@@ -20,6 +20,7 @@ I'm looking for my first job in tech.
 | Computer Architecture                         | <a href="https://github.com/Lucianoottor/Simulador-Processador-Mips">MIPS Compiler Simulator in C</a>|
 | Object-Oriented Programming (OOP)             | <a href="https://github.com/Lucianoottor/space_invaders">Space Invaders Remake on Python</a>|
 | C (Pointer and File Manipulation)             | <a href="https://github.com/Lucianoottor/APP-Software-Comercial">Comercial Software APP</a>|
+| Capture the flag                              | <a href="https://github.com/Lucianoottor/picoCTF_Solutions">PicoCTF Solutions</a>|
 
 ## Tools
 
