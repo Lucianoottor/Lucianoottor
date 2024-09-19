@@ -5,11 +5,12 @@
 
 - 🤔 Searching for new technologies and developing software.
 - 🎓 Computer Science at Universidade Positivo.
+- 💼 Working @ Beyondsoft Brazil | IT Technical Support | Modern Work & Security
 - 🌱 Learning more about Cybersecurity and Cloud.
 
 ## Objective
 
-I'm looking for my first job in tech.
+Develop skills in Cloud and Security.
 
 ## Projects
 
