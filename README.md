@@ -36,7 +36,8 @@ Develop skills in Cloud and Security.
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-
+### Frameworks & Libraries
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" /> <img src="https://img.shields.io/badge/Truffle-5E3C60?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle Badge" /> </div>
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
