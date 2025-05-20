@@ -40,7 +40,9 @@ Develop skills in Cloud and Security.
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-SC--900-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-3B444B?style=for-the-badge&logo=cisco&logoColor=white" />
+
 </div>
 
 ## GitHub Stats!
