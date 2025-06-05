@@ -39,8 +39,11 @@ Develop skills in Cloud and Security.
 </div>
 
 ### Frameworks & Libraries
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" /> <img src="https://img.shields.io/badge/Truffle-5E3C60?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle Badge" /> </div>
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" /> <img src="https://img.shields.io/badge/Truffle-5E3C60?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle Badge" /> 
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js Badge" />
+</div>
+
 
 ## Certifications
 <div>
