@@ -10,7 +10,7 @@
 
 ## Objective
 
-Develop skills in Cloud and Security.
+Gain experience in IT area, seeking for knowledge.
 
 ## Tools
 
