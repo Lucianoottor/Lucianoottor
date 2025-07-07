@@ -12,17 +12,6 @@
 
 Develop skills in Cloud and Security.
 
-## Projects
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Data Analysis and Machine Learning            | <a href="https://github.com/Lucianoottor/Titanic_ML_Model">ML Model of Titanic</a>|
-| Web Development                               | <a href="https://github.com/Lucianoottor/trabalho_desenvolvimento_web">Cinema Website</a>|
-| Computer Architecture                         | <a href="https://github.com/Lucianoottor/Simulador-Processador-Mips">MIPS Compiler Simulator in C</a>|
-| Object-Oriented Programming (OOP)             | <a href="https://github.com/Lucianoottor/space_invaders">Space Invaders Remake on Python</a>|
-| C (Pointer and File Manipulation)             | <a href="https://github.com/Lucianoottor/APP-Software-Comercial">Comercial Software APP</a>|
-| Capture the flag                              | <a href="https://github.com/Lucianoottor/picoCTF_Solutions">PicoCTF Solutions</a>|
-
 ## Tools
 
 ### Programming languages
