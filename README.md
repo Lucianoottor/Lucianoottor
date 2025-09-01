@@ -42,6 +42,3 @@ Gain experience in IT area, seeking for knowledge.
 
 </div>
 
-## GitHub Stats!
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucianoottor&show_icons=true&theme=radical)
-
