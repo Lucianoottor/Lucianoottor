@@ -3,10 +3,9 @@
 
 ## About
 
-- 🤔 Searching for new technologies and developing software.
-- 🎓 Computer Science at Universidade Positivo.
+- 🎓 Computer Science at Universidade Positivo
 - 💼 Working @ Beyondsoft Brazil | IT Technical Support | Modern Work & Security
-- 🌱 Learning more about Cybersecurity and Cloud.
+- 🌱 Always looking for new Web-Development projects
 
 ## Tools
 
