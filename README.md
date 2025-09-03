@@ -8,10 +8,6 @@
 - 💼 Working @ Beyondsoft Brazil | IT Technical Support | Modern Work & Security
 - 🌱 Learning more about Cybersecurity and Cloud.
 
-## Objective
-
-Gain experience in IT area, seeking for knowledge.
-
 ## Tools
 
 ### Programming languages
