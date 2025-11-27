@@ -8,6 +8,7 @@
 
 - 🎓 Computer Science at Universidade Positivo
 - 💼 Working @ Beyondsoft Brazil | IT Technical Support | Modern Work & Security
+- 💻 Currently learning blockchain @ Polkadot National Blockchain Course
 - 🌱 Always looking for new Web-Development projects
 
 ## Tools
