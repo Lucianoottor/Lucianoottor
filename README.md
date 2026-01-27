@@ -6,8 +6,8 @@
 
 ## About
 
-- 🎓 Computer Science at Universidade Positivo
-- 💼 Working @ Beyondsoft Brazil | IT Technical Support | Modern Work & Security
+- 🎓 Computer Science @ Universidade Positivo
+- 💼 Working @ Nimber | Fullstack Developer | WEB3 Development
 - 💻 Currently learning blockchain @ Polkadot National Blockchain Course
 - 🌱 Always looking for new Web-Development projects
 
